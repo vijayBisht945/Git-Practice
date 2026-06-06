@@ -6,3 +6,5 @@ console.log(loginPaage);
 
 const footer = "footer is created "
 console.log(footer);
+const payment = "created payement app"
+console.log(payment);
