@@ -11,3 +11,6 @@ console.log(payment);
 
 const submit = "submit button"
 console.log(submit);
+
+const auth = "valid person or not checked"
+console.log(auth);
