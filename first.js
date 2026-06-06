@@ -8,3 +8,6 @@ const footer = "footer is created "
 console.log(footer);
 const payment = "created payement app"
 console.log(payment);
+
+const submit = "submit button"
+console.log(submit);
